@@ -4,5 +4,5 @@ Dual Z steppers & dual Z endstops.
 With DMP 3D printing system.
 For more detail please visit our official website: www.tenlog3dprinter.com or email zyf@tenlog3dprinter.com; tenlog3d@gmail.com
 
-# v1.026 branch to archive the old binaries/hexfiles  
+# v1.0.26 branch to archive the old binaries/hexfiles  
 I don't know why, but tenlog removed the firmware binary files for printers/board and displays from their github repository. 
